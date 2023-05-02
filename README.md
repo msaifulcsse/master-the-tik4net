@@ -1,6 +1,6 @@
 # Tik4Net Wala (Mikrotik Networking Call Using TikCommand)
 Mikrotik Network Call For All Existing Version Using Asp.Net (MVC) and tik4net. Mikrotik Network Connectivity and It's Call for All Existing Version using Asp.Net MVC and tik4net C# Library (Nuget Package).
-![alt text](https://github.com/msaifulcsse/mikrotik-tik4net-for-all-version-using-aspdotnet-mvc/blob/master/web/images/for-readme/tik4net-wala.png?raw=true)
+![alt text](https://github.com/msaifulcsse/mikrotik-tik4net-for-all-version-using-aspdotnet-mvc/blob/master/Web/Images/for-readme/tik4net-wala.png?raw=true)
 
 ## Project Information
 It's an Asp.Net MVC web based application including with some different libraries to make it more efficient and functional. You can host this project in IIS supported server machine. This project .Net Framkework version is 4.8 and it's depends on Windows based platform. So, server machine must run with any kind of Windows operating system. Cause this .Net Framework version is not platform independent.
